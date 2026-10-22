@@ -78,6 +78,13 @@ const meta: Record<
     type: "Turnkey",
     description: "Multi-unit residential — finishing phase underway.",
   },
+  "under-construction-project-3": {
+    title: "Under Construction — New Project",
+    period: "Under Construction",
+    location: "Islamabad",
+    type: "Gray Structure",
+    description: "Gray structure phase with daily site reporting.",
+  },
 };
 
 type ManifestEntry = (typeof manifest)[number];

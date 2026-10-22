@@ -222,5 +222,17 @@
     "images": [
       "/projects/under-construction/project-2/cover.jpg"
     ]
+  },
+  {
+    "id": "under-construction-project-3",
+    "folderName": "PROJECT 3",
+    "slug": "project-3",
+    "category": "under-construction",
+    "status": "in-build",
+    "cover": "/projects/under-construction/project-3/cover.jpg",
+    "images": [
+      "/projects/under-construction/project-3/cover.jpg",
+      "/projects/under-construction/project-3/photo-2.jpg"
+    ]
   }
 ]
